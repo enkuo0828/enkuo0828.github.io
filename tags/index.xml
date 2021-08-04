@@ -1,10 +1,93 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on EN Kuo&#39;s Note</title>
+    <title>Tags on 雜記</title>
     <link>https://enkuo0828.github.io/tags/</link>
-    <description>Recent content in Tags on EN Kuo&#39;s Note</description>
+    <description>Recent content in Tags on 雜記</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-TW</language><atom:link href="https://enkuo0828.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-TW</language>
+    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
+    <lastBuildDate>Sat, 18 Jul 2020 17:14:37 +0800</lastBuildDate><atom:link href="https://enkuo0828.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>audio</title>
+      <link>https://enkuo0828.github.io/tags/audio/</link>
+      <pubDate>Sat, 18 Jul 2020 17:14:37 +0800</pubDate>
+      
+      <guid>https://enkuo0828.github.io/tags/audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>django</title>
+      <link>https://enkuo0828.github.io/tags/django/</link>
+      <pubDate>Sat, 18 Jul 2020 17:14:37 +0800</pubDate>
+      
+      <guid>https://enkuo0828.github.io/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stream response</title>
+      <link>https://enkuo0828.github.io/tags/stream-response/</link>
+      <pubDate>Sat, 18 Jul 2020 17:14:37 +0800</pubDate>
+      
+      <guid>https://enkuo0828.github.io/tags/stream-response/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>播放器</title>
+      <link>https://enkuo0828.github.io/tags/%E6%92%AD%E6%94%BE%E5%99%A8/</link>
+      <pubDate>Sat, 18 Jul 2020 17:14:37 +0800</pubDate>
+      
+      <guid>https://enkuo0828.github.io/tags/%E6%92%AD%E6%94%BE%E5%99%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>djdt</title>
+      <link>https://enkuo0828.github.io/tags/djdt/</link>
+      <pubDate>Thu, 18 Jul 2019 17:14:37 +0800</pubDate>
+      
+      <guid>https://enkuo0828.github.io/tags/djdt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>偵錯工具</title>
+      <link>https://enkuo0828.github.io/tags/%E5%81%B5%E9%8C%AF%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Thu, 18 Jul 2019 17:14:37 +0800</pubDate>
+      
+      <guid>https://enkuo0828.github.io/tags/%E5%81%B5%E9%8C%AF%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brew</title>
+      <link>https://enkuo0828.github.io/tags/brew/</link>
+      <pubDate>Tue, 07 Aug 2018 17:14:37 +0800</pubDate>
+      
+      <guid>https://enkuo0828.github.io/tags/brew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python2</title>
+      <link>https://enkuo0828.github.io/tags/python2/</link>
+      <pubDate>Tue, 07 Aug 2018 17:14:37 +0800</pubDate>
+      
+      <guid>https://enkuo0828.github.io/tags/python2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python3</title>
+      <link>https://enkuo0828.github.io/tags/python3/</link>
+      <pubDate>Tue, 07 Aug 2018 17:14:37 +0800</pubDate>
+      
+      <guid>https://enkuo0828.github.io/tags/python3/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

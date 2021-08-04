@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>djdt on 雜記</title>
+    <link>https://enkuo0828.github.io/tags/djdt/</link>
+    <description>Recent content in djdt on 雜記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 18 Jul 2019 17:14:37 +0800</lastBuildDate><atom:link href="https://enkuo0828.github.io/tags/djdt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>django-debug-toolbar非。常。慢之解法與常用配置</title>
+      <link>https://enkuo0828.github.io/posts/2019-07-18-django-debug-toolbar%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Thu, 18 Jul 2019 17:14:37 +0800</pubDate>
+      
+      <guid>https://enkuo0828.github.io/posts/2019-07-18-django-debug-toolbar%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/jazzband/django-debug-toolbar&#34;&gt;django-debug-toolbar&lt;/a&gt;(以下簡寫 djdt)是 Django 非常實用的 debug 工具&lt;/p&gt;
+&lt;p&gt;爬了一下&lt;a href=&#34;https://django-debug-toolbar.readthedocs.io/en/latest/index.html&#34;&gt;文件&lt;/a&gt;來寫一點 Config 說明跟撇步，安裝步驟就不提了&lt;br&gt;
+以下說明使用的是 2.0 版本，我這裡最新就 2.0，你那裡應該會新一些&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
