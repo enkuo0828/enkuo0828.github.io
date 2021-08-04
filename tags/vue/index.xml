@@ -14,7 +14,8 @@
       <pubDate>Fri, 30 Jul 2021 17:14:37 +0800</pubDate>
       
       <guid>https://enkuo0828.github.io/posts/2021-07-30-vue-todo-list%E7%B7%B4%E7%BF%92/</guid>
-      <description>.font-change, .btn, .form-control, select { font-size: 0.5em !important; } small { font-size: 0.3em !important; }     {{ status }}     新增    清單   狀態   日曆   更新至未修改資料   自動生成10筆資料        編號 事項 狀態 日期 功能    {{ obj.id }}    {{ status }}       修改  刪除        {{ status }} 待辦事項</description>
+      <description>
+</description>
     </item>
     
   </channel>
