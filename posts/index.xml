@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 18 Jul 2020 17:14:37 +0800</lastBuildDate><atom:link href="https://enkuo0828.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jul 2021 17:14:37 +0800</lastBuildDate><atom:link href="https://enkuo0828.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vue-Todo-List練習</title>
+      <link>https://enkuo0828.github.io/posts/2021-07-30-vue-todo-list%E7%B7%B4%E7%BF%92/</link>
+      <pubDate>Fri, 30 Jul 2021 17:14:37 +0800</pubDate>
+      
+      <guid>https://enkuo0828.github.io/posts/2021-07-30-vue-todo-list%E7%B7%B4%E7%BF%92/</guid>
+      <description>.font-change, .btn, .form-control, select { font-size: 0.5em !important; } small { font-size: 0.3em !important; }     {{ status }}     新增    清單   狀態   日曆   更新至未修改資料   自動生成10筆資料        編號 事項 狀態 日期 功能    {{ obj.id }}    {{ status }}       修改  刪除        {{ status }} 待辦事項</description>
+    </item>
+    
     <item>
       <title>自製音樂播放器…好像很簡單？with Django Stream Response</title>
       <link>https://enkuo0828.github.io/posts/%E4%BB%8B%E7%B4%B9%E5%A6%82%E4%BD%95%E5%9C%A8django%E7%92%B0%E5%A2%83%E4%B8%8B%E5%AE%A2%E8%A3%BD%E9%9F%B3%E6%AA%94%E6%92%AD%E6%94%BE%E5%99%A8/</link>
@@ -42,6 +51,16 @@
 &lt;p&gt;按照&lt;a href=&#34;https://stringpiggy.hpd.io/mac-osx-python3-dual-install/&#34;&gt;前人的腳步&lt;/a&gt;是依次序安裝 &lt;strong&gt;XCODE&amp;gt;HOMEBREW&lt;/strong&gt; 後執行&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;brew install python
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;卻跳出錯誤訊息&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>在mac上安裝awscli遇到:aws command not found</title>
+      <link>https://enkuo0828.github.io/posts/2018-08-09-%E5%9C%A8mac%E4%B8%8A%E5%AE%89%E8%A3%9Dawscli%E9%81%87%E5%88%B0-aws-command-not-found/</link>
+      <pubDate>Tue, 07 Aug 2018 17:14:37 +0800</pubDate>
+      
+      <guid>https://enkuo0828.github.io/posts/2018-08-09-%E5%9C%A8mac%E4%B8%8A%E5%AE%89%E8%A3%9Dawscli%E9%81%87%E5%88%B0-aws-command-not-found/</guid>
+      <description>&lt;p&gt;簡單的說以下應該是這篇&lt;a href=&#34;https://docs.aws.amazon.com/zh_tw/cli/latest/userguide/cli-install-macos.html&#34;&gt;官方文件&lt;/a&gt; 的部分中文版&lt;br&gt;
+主要是按照步驟用 &lt;code&gt;pip3&lt;/code&gt; 裝完 &lt;code&gt;awscli&lt;/code&gt; 後 遇到 &lt;code&gt;aws command not found&lt;/code&gt; 的解法&lt;/p&gt;</description>
     </item>
     
   </channel>

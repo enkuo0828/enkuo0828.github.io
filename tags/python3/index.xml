@@ -20,5 +20,15 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;卻跳出錯誤訊息&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>在mac上安裝awscli遇到:aws command not found</title>
+      <link>https://enkuo0828.github.io/posts/2018-08-09-%E5%9C%A8mac%E4%B8%8A%E5%AE%89%E8%A3%9Dawscli%E9%81%87%E5%88%B0-aws-command-not-found/</link>
+      <pubDate>Tue, 07 Aug 2018 17:14:37 +0800</pubDate>
+      
+      <guid>https://enkuo0828.github.io/posts/2018-08-09-%E5%9C%A8mac%E4%B8%8A%E5%AE%89%E8%A3%9Dawscli%E9%81%87%E5%88%B0-aws-command-not-found/</guid>
+      <description>&lt;p&gt;簡單的說以下應該是這篇&lt;a href=&#34;https://docs.aws.amazon.com/zh_tw/cli/latest/userguide/cli-install-macos.html&#34;&gt;官方文件&lt;/a&gt; 的部分中文版&lt;br&gt;
+主要是按照步驟用 &lt;code&gt;pip3&lt;/code&gt; 裝完 &lt;code&gt;awscli&lt;/code&gt; 後 遇到 &lt;code&gt;aws command not found&lt;/code&gt; 的解法&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>

@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 18 Jul 2020 17:14:37 +0800</lastBuildDate><atom:link href="https://enkuo0828.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jul 2021 17:14:37 +0800</lastBuildDate><atom:link href="https://enkuo0828.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>frontend</title>
+      <link>https://enkuo0828.github.io/tags/frontend/</link>
+      <pubDate>Fri, 30 Jul 2021 17:14:37 +0800</pubDate>
+      
+      <guid>https://enkuo0828.github.io/tags/frontend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://enkuo0828.github.io/tags/javascript/</link>
+      <pubDate>Fri, 30 Jul 2021 17:14:37 +0800</pubDate>
+      
+      <guid>https://enkuo0828.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vue</title>
+      <link>https://enkuo0828.github.io/tags/vue/</link>
+      <pubDate>Fri, 30 Jul 2021 17:14:37 +0800</pubDate>
+      
+      <guid>https://enkuo0828.github.io/tags/vue/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>audio</title>
       <link>https://enkuo0828.github.io/tags/audio/</link>
@@ -59,6 +86,24 @@
       <pubDate>Thu, 18 Jul 2019 17:14:37 +0800</pubDate>
       
       <guid>https://enkuo0828.github.io/tags/%E5%81%B5%E9%8C%AF%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aws</title>
+      <link>https://enkuo0828.github.io/tags/aws/</link>
+      <pubDate>Tue, 07 Aug 2018 17:14:37 +0800</pubDate>
+      
+      <guid>https://enkuo0828.github.io/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>awscli</title>
+      <link>https://enkuo0828.github.io/tags/awscli/</link>
+      <pubDate>Tue, 07 Aug 2018 17:14:37 +0800</pubDate>
+      
+      <guid>https://enkuo0828.github.io/tags/awscli/</guid>
       <description></description>
     </item>
     
